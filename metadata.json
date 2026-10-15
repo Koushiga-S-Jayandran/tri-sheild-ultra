@@ -1,0 +1,6 @@
+{
+  "name": "TriShield SOC - Rogue Cell Tower Detection System",
+  "description": "Three-Layer Rogue Cell Tower Detection and Reporting System featuring multi-rule heuristics, Isolation Forest anomaly scoring, and SHA-256 tamper-evident cryptographic evidence logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
